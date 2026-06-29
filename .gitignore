@@ -1,0 +1,15 @@
+# Dependencias
+node_modules/
+.pnp
+.pnp.js
+
+# Producción / Compilación
+dist/
+dist-ssr/
+*.local
+
+# Caché e IDES
+.cache/
+.vscode/
+.DS_Store
+Thumbs.db
